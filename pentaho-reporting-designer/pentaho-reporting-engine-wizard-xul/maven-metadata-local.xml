@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>pentaho-reporting-designer</groupId>
+  <artifactId>pentaho-reporting-engine-wizard-xul</artifactId>
+  <versioning>
+    <release>3.9.1-GA</release>
+    <versions>
+      <version>3.9.1-GA</version>
+    </versions>
+    <lastUpdated>20220620025408</lastUpdated>
+  </versioning>
+</metadata>
